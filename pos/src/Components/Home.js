@@ -33,8 +33,8 @@ const Home = () => {
           <span className="visually-hidden">Next</span>
         </button>
       </div>
-      <Contact/>
       <About/>
+      <Contact/>
     </div>
   )
 }
