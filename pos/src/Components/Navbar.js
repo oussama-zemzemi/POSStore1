@@ -1,5 +1,7 @@
 import React from 'react'
 import { NavLink } from 'react-router-dom'
+import Login from './buttons/Login'
+
 
 const Navbar = () => {
   return (
@@ -21,7 +23,10 @@ const Navbar = () => {
                             <li className="nav-item">
                                 <NavLink className="nav-link" to="/contact">Contact</NavLink>
                             </li>
+                            
                     </ul>
+                    <Login />
+                  
        
 
 </div>
