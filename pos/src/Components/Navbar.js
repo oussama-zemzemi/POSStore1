@@ -1,6 +1,7 @@
 import React from 'react'
 import { NavLink } from 'react-router-dom'
 import Login from './buttons/Login'
+import SignUp from './buttons/SignUp'
 
 
 const Navbar = () => {
@@ -26,6 +27,7 @@ const Navbar = () => {
                             
                     </ul>
                     <Login />
+                    <SignUp/>
                   
        
 

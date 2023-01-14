@@ -9,7 +9,7 @@ const About = () => {
         <div className="col-md-6">
           <h1>About Us</h1>
           <p className="lead mb-4">
-            Welcome to Vape-it Tunisian Ltd
+            Welcome to exacone Tunisian Ltd
             We are one of the Tunisian's
             Premium E-liquid Manufacturers
             All of our e-liquids are mixed in an ISO7 cleanroom.

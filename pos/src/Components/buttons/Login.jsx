@@ -9,7 +9,7 @@ const Login = () => {
     email: '',
     password: '',
 })
-const { email, password } = formData;
+const { name, email, password, password2 } = formData;
 const navigate = useNavigate();
 
 const handelSubmit = (e) => {
